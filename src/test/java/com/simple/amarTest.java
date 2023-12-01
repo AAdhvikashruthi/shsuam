@@ -7,5 +7,7 @@ public class amarTest {
   public void f() {
 	  
 	  System.out.println("swamiye sharanamayyappaaaaa");
+	  System.out.println("swami sharanam ayyappa sharanam");
+	  System.out.println("swami sharanam ayyappa sharanam");
   }
 }
