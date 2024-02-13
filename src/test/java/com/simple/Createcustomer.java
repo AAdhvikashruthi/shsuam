@@ -4,9 +4,9 @@ import org.testng.annotations.Test;
 
 public class Createcustomer {
 	@Test
-	public void cretecustomer()
+	public void editcustomer()
 	{
-		System.out.println("customer created");
+		System.out.println("customer edit");
 	}
 
 }
