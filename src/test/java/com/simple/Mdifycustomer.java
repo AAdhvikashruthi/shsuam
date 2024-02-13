@@ -2,9 +2,10 @@ package com.simple;
 
 import org.testng.annotations.Test;
 
-
+public class Mdifycustomer {
+	
 	@Test
-	public void editcustomer()
+	public void editcustomer1()
 	{
 		System.out.println("customer edit");
 	}
