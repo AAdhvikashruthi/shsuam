@@ -23,5 +23,10 @@ public class Createcustomer {
 	{
 		System.out.println("customer created");
 	}
+	@Test
+	public void createcustomer3()
+	{
+		System.out.println("customer created");
+	}
 
 }
