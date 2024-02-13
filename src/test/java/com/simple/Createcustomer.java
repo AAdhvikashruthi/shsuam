@@ -8,5 +8,10 @@ public class Createcustomer {
 	{
 		System.out.println("customer edit");
 	}
+	@Test
+	public void createcustomer()
+	{
+		System.out.println("customer created");
+	}
 
 }
